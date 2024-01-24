@@ -1,4 +1,4 @@
-Here is a general workflow for analyzing bulk RNA sequencing (RNA-seq) data starting from FASTQ files:
+A general workflow for analyzing bulk RNA sequencing (RNA-seq) data starting from FASTQ files:
 
 1. **Quality Control of Raw Reads**: The first step is to check the quality of the raw reads in the FASTQ files. Tools like FastQC can be used for this purpose.
 
